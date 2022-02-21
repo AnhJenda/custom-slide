@@ -17,5 +17,5 @@ $('#product-slider .owl-carousel').owlCarousel({
         }
     },
     items: 5,
-    dots:false
+    dots:true
 });
